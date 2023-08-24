@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XLSL Conversion", "XLSL Conversion\XLSL Conversion.csproj", "{4840E597-958D-4B08-8ABE-7D67E961C363}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4840E597-958D-4B08-8ABE-7D67E961C363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4840E597-958D-4B08-8ABE-7D67E961C363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4840E597-958D-4B08-8ABE-7D67E961C363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4840E597-958D-4B08-8ABE-7D67E961C363}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6D421B3-B5F4-4C85-B495-918E67AB84C8}
+	EndGlobalSection
+EndGlobal
