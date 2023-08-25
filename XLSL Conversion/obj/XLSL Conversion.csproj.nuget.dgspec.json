@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\trofing\\Desktop\\C#\\XLSL Conversion\\XLSL Conversion\\XLSL Conversion.csproj": {}
+    "C:\\Users\\trofing\\Desktop\\xlsx1\\XLSL Conversion\\XLSL Conversion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\trofing\\Desktop\\C#\\XLSL Conversion\\XLSL Conversion\\XLSL Conversion.csproj": {
+    "C:\\Users\\trofing\\Desktop\\xlsx1\\XLSL Conversion\\XLSL Conversion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\trofing\\Desktop\\C#\\XLSL Conversion\\XLSL Conversion\\XLSL Conversion.csproj",
+        "projectUniqueName": "C:\\Users\\trofing\\Desktop\\xlsx1\\XLSL Conversion\\XLSL Conversion.csproj",
         "projectName": "XLSL Conversion",
-        "projectPath": "C:\\Users\\trofing\\Desktop\\C#\\XLSL Conversion\\XLSL Conversion\\XLSL Conversion.csproj",
+        "projectPath": "C:\\Users\\trofing\\Desktop\\xlsx1\\XLSL Conversion\\XLSL Conversion.csproj",
         "packagesPath": "C:\\Users\\trofing\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\trofing\\Desktop\\C#\\XLSL Conversion\\XLSL Conversion\\obj\\",
+        "outputPath": "C:\\Users\\trofing\\Desktop\\xlsx1\\XLSL Conversion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

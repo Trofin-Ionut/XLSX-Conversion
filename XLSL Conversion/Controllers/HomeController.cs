@@ -9,6 +9,7 @@ using OfficeOpenXml.Style;
 using System.Linq;
 using XLSL_Conversion.Models;
 using OfficeOpenXml.Packaging;
+using Syncfusion.XlsIO.Calculate;
 
 namespace XLSL_Conversion.Controllers
 {
@@ -28,9 +29,9 @@ namespace XLSL_Conversion.Controllers
         [Route("/")]
         public IActionResult Home()
         {
-            if(System.IO.File.Exists(name+".xlsx")) 
+            if (System.IO.File.Exists(name + ".xlsx"))
             {
-                System.IO.File.Delete(name+ ".xlsx");
+                System.IO.File.Delete(name + ".xlsx");
             }
             return View("ReadExcel");
         }
@@ -71,6 +72,7 @@ namespace XLSL_Conversion.Controllers
                             items.Add(temp);
                         }
                     }
+                    System.IO.File.Delete(ExcelFile.Name);
                 }
             }
             return RedirectToAction("ReplaceStorage", "Home");
@@ -252,8 +254,9 @@ namespace XLSL_Conversion.Controllers
         [Route("xlsx")]
         public async Task<IActionResult> CreateXLSX()
         {
+
             ExcelPackage excel = new();
-            var worksheet = excel.Workbook.Worksheets.Add(name+".xlsx");
+            var worksheet = excel.Workbook.Worksheets.Add(name + ".xlsx");
             worksheet.TabColor = System.Drawing.Color.Black;
             worksheet.DefaultRowHeight = 30;
             worksheet.Row(1).Height = 40;
@@ -267,79 +270,63 @@ namespace XLSL_Conversion.Controllers
             }
             int first = 2;
             int end = 4;
-            HashSet<string> usedKeys = new();
             sums.Keys.Order();
             foreach (var key in sums.Keys)
             {
-                if (usedKeys.Contains(key))
-                {
-                    continue;
-                }
                 if (key == null)
                 {
                     continue;
                 }
-                usedKeys.Add(key);
                 worksheet.Cells[1, first, 1, end].Merge = true;
                 worksheet.Cells[1, first].Value = key;
                 int k = 3;
-                int cell = first;
-                int miniCount = 3;
                 foreach (var st in storages)
                 {
                     if (st == null)
                     {
                         continue;
                     }
-                    try
+                    worksheet.Cells[2, first].Value = "Schimbul 1";
+                    worksheet.Cells[2, first + 1].Value = "Schimbul 2";
+                    worksheet.Cells[2, first + 2].Value = "Schimbul 3";
+                    if (sums[key].sum1.ContainsKey(st))
                     {
-                        worksheet.Cells[2, cell++].Value = "Schimbul 1";
-                        worksheet.Cells[2, cell++].Value = "Schimbul 2";
-                        worksheet.Cells[2, cell].Value = "Schimbul 3";
-                        cell = first;
-                        worksheet.Cells[k, cell].Value = sums[key].sum1[st]; miniCount--;
-                        cell++;
-                        worksheet.Cells[k, cell].Value = sums[key].sum2[st]; miniCount--;
-                        cell++;
-                        worksheet.Cells[k++, cell].Value = sums[key].sum3[st];
-                        cell = first;
-                        miniCount = 3;
+                        worksheet.Cells[k, first].Value = sums[key].sum1[st];
                     }
-                    catch (Exception)
+                    else
                     {
-                        while (miniCount != 0)
-                        {
-                            worksheet.Cells[k, cell++].Value = 0;
-                            miniCount--;
-                        }
-                        miniCount = 3;
-                        cell = first;
-                        continue;
+                        worksheet.Workbook.Worksheets[name + ".xlsx"].SetValue(k, first, 1);
                     }
+                    if (sums[key].sum2.ContainsKey(st))
+                    {
+                        worksheet.Cells[k, first + 1].Value = sums[key].sum2[st];
+                    }
+                    else
+                    {
+                        worksheet.Workbook.Worksheets[name + ".xlsx"].SetValue(k, first + 1, 1);
+                    }
+                    if (sums[key].sum3.ContainsKey(st))
+                    {
+                        worksheet.Cells[k, first + 2].Value = sums[key].sum3[st];
+                    }
+                    else
+                    {
+                        worksheet.Workbook.Worksheets[name + ".xlsx"].SetValue(k, first + 2, 1);
+                    }
+                    k++;
                 }
                 first += 3;
                 end += 3;
             }
             worksheet.Columns.AutoFit();
-            name = Convert.ToString(Guid.NewGuid().ToString());
             string fileName = name + ".xlsx";
-            MemoryStream memoryStream = new MemoryStream();
             var contentType = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet";
-            if (System.IO.File.Exists(fileName))
-            {
-                using (var fileStream = new FileStream(fileName, FileMode.Open, FileAccess.Read))
-                {
-                    await fileStream.CopyToAsync(memoryStream);
-                }
-            }
-            else
-            {
-                await excel.SaveAsAsync(new FileInfo(fileName));
-                memoryStream = new();
-                await excel.SaveAsAsync(memoryStream);
-            }
-            memoryStream.Position = 0;
-            return File(memoryStream, contentType, fileName);
+            await excel.SaveAsync();
+            items.Clear();
+            storages.Clear();
+            st = "";
+            sums.Clear();
+            return File(excel.GetAsByteArray(), contentType, fileName);
         }
     }
 }
