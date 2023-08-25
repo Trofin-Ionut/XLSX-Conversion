@@ -97,16 +97,16 @@ namespace XLSL_Conversion.Controllers
         [Route("shift")]
         public IActionResult Shifts()
         {
-            var shift1 = items.Where(list => Convert.ToDateTime(list[14]).TimeOfDay > TimeSpan.ParseExact("05:59:59", "hh\\:mm\\:ss", null)
-            && Convert.ToDateTime(list[14]).TimeOfDay < TimeSpan.ParseExact("14:30:00", "hh\\:mm\\:ss", null)
+            var shift1 = items.Where(list => Convert.ToDateTime(list[14]).TimeOfDay >= TimeSpan.ParseExact("06:00:00", "hh\\:mm\\:ss", null)
+            && Convert.ToDateTime(list[14]).TimeOfDay <= TimeSpan.ParseExact("14:29:59", "hh\\:mm\\:ss", null)
             ).ToList();
             Order(ref shift1);
-            var shift2 = items.Where(list => Convert.ToDateTime(list[14]).TimeOfDay > TimeSpan.ParseExact("14:29:59", "hh\\:mm\\:ss", null)
-            && Convert.ToDateTime(list[14]).TimeOfDay < TimeSpan.ParseExact("22:50:00", "hh\\:mm\\:ss", null)
+            var shift2 = items.Where(list => Convert.ToDateTime(list[14]).TimeOfDay >= TimeSpan.ParseExact("14:30:00", "hh\\:mm\\:ss", null)
+            && Convert.ToDateTime(list[14]).TimeOfDay <= TimeSpan.ParseExact("22:49:59", "hh\\:mm\\:ss", null)
             ).ToList();
             Order(ref shift2);
-            var shift3 = items.Where(list => Convert.ToDateTime(list[14]).TimeOfDay > TimeSpan.ParseExact("22:49:59", "hh\\:mm\\:ss", null)
-            || Convert.ToDateTime(list[14]).TimeOfDay < TimeSpan.ParseExact("06:00:00", "hh\\:mm\\:ss", null)
+            var shift3 = items.Where(list => Convert.ToDateTime(list[14]).TimeOfDay >= TimeSpan.ParseExact("22:50:00", "hh\\:mm\\:ss", null)
+            || Convert.ToDateTime(list[14]).TimeOfDay <= TimeSpan.ParseExact("05:59:59", "hh\\:mm\\:ss", null)
             ).ToList();
             Order(ref shift3);
 
@@ -295,7 +295,7 @@ namespace XLSL_Conversion.Controllers
                     }
                     else
                     {
-                        worksheet.Workbook.Worksheets[name + ".xlsx"].SetValue(k, first, 1);
+                        worksheet.Workbook.Worksheets[name + ".xlsx"].SetValue(k, first, 0);
                     }
                     if (sums[key].sum2.ContainsKey(st))
                     {
@@ -303,7 +303,7 @@ namespace XLSL_Conversion.Controllers
                     }
                     else
                     {
-                        worksheet.Workbook.Worksheets[name + ".xlsx"].SetValue(k, first + 1, 1);
+                        worksheet.Workbook.Worksheets[name + ".xlsx"].SetValue(k, first + 1, 0);
                     }
                     if (sums[key].sum3.ContainsKey(st))
                     {
@@ -311,7 +311,7 @@ namespace XLSL_Conversion.Controllers
                     }
                     else
                     {
-                        worksheet.Workbook.Worksheets[name + ".xlsx"].SetValue(k, first + 2, 1);
+                        worksheet.Workbook.Worksheets[name + ".xlsx"].SetValue(k, first + 2, 0);
                     }
                     k++;
                 }
