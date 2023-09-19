@@ -1,0 +1,129 @@
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\bin\Debug\net7.0\appsettings.json
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\bin\Debug\net7.0\XLSL Conversion.staticwebassets.runtime.json
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\bin\Debug\net7.0\XLSL Conversion.exe
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\bin\Debug\net7.0\XLSL Conversion.deps.json
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\bin\Debug\net7.0\XLSL Conversion.runtimeconfig.json
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\bin\Debug\net7.0\XLSL Conversion.dll
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\bin\Debug\net7.0\XLSL Conversion.pdb
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\bin\Debug\net7.0\EPPlus.dll
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\bin\Debug\net7.0\EPPlus.Interfaces.dll
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\bin\Debug\net7.0\EPPlus.System.Drawing.dll
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\bin\Debug\net7.0\Syncfusion.Compression.Portable.dll
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\bin\Debug\net7.0\Syncfusion.Licensing.dll
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\bin\Debug\net7.0\Syncfusion.XlsIO.Portable.dll
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\obj\Debug\net7.0\XLSL Conversion.csproj.AssemblyReference.cache
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\obj\Debug\net7.0\XLSL Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\obj\Debug\net7.0\XLSL Conversion.AssemblyInfoInputs.cache
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\obj\Debug\net7.0\XLSL Conversion.AssemblyInfo.cs
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\obj\Debug\net7.0\XLSL Conversion.csproj.CoreCompileInputs.cache
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\obj\Debug\net7.0\XLSL Conversion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\obj\Debug\net7.0\XLSL Conversion.RazorAssemblyInfo.cache
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\obj\Debug\net7.0\XLSL Conversion.RazorAssemblyInfo.cs
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\obj\Debug\net7.0\staticwebassets\msbuild.XLSL Conversion.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\obj\Debug\net7.0\staticwebassets\msbuild.build.XLSL Conversion.props
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.XLSL Conversion.props
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.XLSL Conversion.props
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\obj\Debug\net7.0\scopedcss\bundle\XLSL Conversion.styles.css
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\obj\Debug\net7.0\XLSL Conversion.csproj.CopyComplete
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\obj\Debug\net7.0\XLSL Conversion.dll
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\obj\Debug\net7.0\refint\XLSL Conversion.dll
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\obj\Debug\net7.0\XLSL Conversion.pdb
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\obj\Debug\net7.0\XLSL Conversion.genruntimeconfig.cache
+C:\Users\trofing\Desktop\C#\XLSL Conversion\XLSL Conversion\obj\Debug\net7.0\ref\XLSL Conversion.dll
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\bin\Debug\net7.0\appsettings.json
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\bin\Debug\net7.0\XLSL Conversion.staticwebassets.runtime.json
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\bin\Debug\net7.0\XLSL Conversion.exe
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\bin\Debug\net7.0\XLSL Conversion.deps.json
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\bin\Debug\net7.0\XLSL Conversion.runtimeconfig.json
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\bin\Debug\net7.0\XLSL Conversion.dll
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\bin\Debug\net7.0\XLSL Conversion.pdb
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\bin\Debug\net7.0\EPPlus.dll
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\bin\Debug\net7.0\EPPlus.Interfaces.dll
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\bin\Debug\net7.0\EPPlus.System.Drawing.dll
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\bin\Debug\net7.0\Syncfusion.Compression.Portable.dll
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\bin\Debug\net7.0\Syncfusion.Licensing.dll
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\bin\Debug\net7.0\Syncfusion.XlsIO.Portable.dll
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\obj\Debug\net7.0\XLSL Conversion.csproj.AssemblyReference.cache
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\obj\Debug\net7.0\XLSL Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\obj\Debug\net7.0\XLSL Conversion.AssemblyInfoInputs.cache
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\obj\Debug\net7.0\XLSL Conversion.AssemblyInfo.cs
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\obj\Debug\net7.0\XLSL Conversion.csproj.CoreCompileInputs.cache
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\obj\Debug\net7.0\XLSL Conversion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\obj\Debug\net7.0\XLSL Conversion.RazorAssemblyInfo.cache
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\obj\Debug\net7.0\XLSL Conversion.RazorAssemblyInfo.cs
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\obj\Debug\net7.0\staticwebassets\msbuild.XLSL Conversion.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\obj\Debug\net7.0\staticwebassets\msbuild.build.XLSL Conversion.props
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.XLSL Conversion.props
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.XLSL Conversion.props
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\obj\Debug\net7.0\scopedcss\bundle\XLSL Conversion.styles.css
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\obj\Debug\net7.0\XLSL Conversion.csproj.CopyComplete
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\obj\Debug\net7.0\XLSL Conversion.dll
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\obj\Debug\net7.0\refint\XLSL Conversion.dll
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\obj\Debug\net7.0\XLSL Conversion.pdb
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\obj\Debug\net7.0\XLSL Conversion.genruntimeconfig.cache
+C:\Users\trofing\Desktop\xlsx1\XLSL Conversion\obj\Debug\net7.0\ref\XLSL Conversion.dll
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\bin\Debug\net7.0\appsettings.json
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\bin\Debug\net7.0\XLSL Conversion.staticwebassets.runtime.json
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\bin\Debug\net7.0\XLSL Conversion.exe
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\bin\Debug\net7.0\XLSL Conversion.deps.json
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\bin\Debug\net7.0\XLSL Conversion.runtimeconfig.json
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\bin\Debug\net7.0\XLSL Conversion.dll
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\bin\Debug\net7.0\XLSL Conversion.pdb
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\bin\Debug\net7.0\EPPlus.dll
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\bin\Debug\net7.0\EPPlus.Interfaces.dll
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\bin\Debug\net7.0\EPPlus.System.Drawing.dll
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\bin\Debug\net7.0\Syncfusion.Compression.Portable.dll
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\bin\Debug\net7.0\Syncfusion.Licensing.dll
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\bin\Debug\net7.0\Syncfusion.XlsIO.Portable.dll
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\obj\Debug\net7.0\XLSL Conversion.csproj.AssemblyReference.cache
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\obj\Debug\net7.0\XLSL Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\obj\Debug\net7.0\XLSL Conversion.AssemblyInfoInputs.cache
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\obj\Debug\net7.0\XLSL Conversion.AssemblyInfo.cs
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\obj\Debug\net7.0\XLSL Conversion.csproj.CoreCompileInputs.cache
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\obj\Debug\net7.0\XLSL Conversion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\obj\Debug\net7.0\XLSL Conversion.RazorAssemblyInfo.cache
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\obj\Debug\net7.0\XLSL Conversion.RazorAssemblyInfo.cs
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\obj\Debug\net7.0\staticwebassets\msbuild.XLSL Conversion.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\obj\Debug\net7.0\staticwebassets\msbuild.build.XLSL Conversion.props
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.XLSL Conversion.props
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.XLSL Conversion.props
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\obj\Debug\net7.0\scopedcss\bundle\XLSL Conversion.styles.css
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\obj\Debug\net7.0\XLSL Conversion.csproj.CopyComplete
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\obj\Debug\net7.0\XLSL Conversion.dll
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\obj\Debug\net7.0\refint\XLSL Conversion.dll
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\obj\Debug\net7.0\XLSL Conversion.pdb
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\obj\Debug\net7.0\XLSL Conversion.genruntimeconfig.cache
+C:\Users\trofing\Desktop\C#\xlsx1\XLSL Conversion\obj\Debug\net7.0\ref\XLSL Conversion.dll

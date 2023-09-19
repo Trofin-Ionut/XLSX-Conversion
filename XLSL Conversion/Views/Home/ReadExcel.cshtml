@@ -1,0 +1,17 @@
+﻿@using (Html.BeginForm("ReadExcel", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <table>
+        <tr>
+            <td>File:</td>
+            <td>
+                <input type="file" name="ExcelFile" />
+            </td>
+        </tr>
+        <tr>
+
+            <td colspan="2">
+                <input type="submit" name="Submit" value="ExcelFile" />
+            </td>
+        </tr>
+    </table>
+}
